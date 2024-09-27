@@ -18,7 +18,19 @@ Accent: `bg-coral-400`
 
 ---
 
-adjust green to sagey green #869f8a
-
 Stripe for Cart/payment page
 https://docs.stripe.com/payments/checkout
+
+---
+
+Logo...................home shop cart
+|
+|
+|..........Hero Image
+|
+|
+producsts
+
+---
+
+underline active
